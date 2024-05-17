@@ -7,4 +7,10 @@ TODO setup clipboard in vim / change limit on vim register - for now use `gedit 
 
 projects/ used like ~/projects, but without any subfolders. This way lists relevant to other projects, eg. Pank-Differential-Expression.txt, can be seen.
 
+ - aGeneral-\*
+   - Tab groups that are of general use, even if project-specific
+ - aTODO
+   - Tab groups relating to mini-projects / tasks like customising workstation setup
+
+
 
