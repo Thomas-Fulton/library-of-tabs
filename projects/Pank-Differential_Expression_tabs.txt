@@ -1,0 +1,65 @@
+https://www.google.com/search?q=how+to+validate+scRNA+seq+pipeline&sca_esv=596495099&sxsrf=ACQVn09EhprEd4lFodElybI0SQNQR-JwmA%3A1704711960142&ei=GNebZZifCK_ShbIPtbO5gAY&ved=0ahUKEwiYi9D20s2DAxUvaUEAHbVZDmAQ4dUDCBA&uact=5&oq=how+to+validate+scRNA+seq+pipeline&gs_lp=Egxnd3Mtd2l6LXNlcnAiImhvdyB0byB2YWxpZGF0ZSBzY1JOQSBzZXEgcGlwZWxpbmUyBRAhGKABSPFDULcIWKBDcAJ4AZABAJgBcqAB2BOqAQQzMi4yuAEDyAEA-AEBqAIUwgIHECMY6gIYJ8ICFBAAGIAEGOMEGOkEGOoCGLQC2AEBwgIWEAAYAxiPARjlAhjqAhi0AhiMA9gBAsICBBAjGCfCAgoQIxiABBiKBRgnwgILEAAYgAQYigUYkQLCAgsQABiABBixAxiDAcICDhAuGMcBGLEDGNEDGIAEwgIOEC4YgAQYigUYsQMYgwHCAhEQLhiABBixAxiDARjHARjRA8ICChAAGIAEGIoFGEPCAg4QLhiABBjHARivARiOBcICDhAuGIAEGLEDGMcBGNEDwgIREC4YgwEYxwEYsQMY0QMYgATCAg4QABiABBiKBRixAxiDAcICBRAAGIAEwgIOEC4YgAQYsQMYgwEY1ALCAgsQABiABBiKBRixA8ICCBAAGIAEGLEDwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAggQIRgWGB4YHcICBBAhGBXCAgcQIRgKGKAB4gMEGAAgQYgGAboGBggBEAEYAboGBggCEAEYCw&sclient=gws-wiz-serp | how to validate scRNA seq pipeline - Google Search
+https://www.nature.com/articles/s41467-019-12266-7 | A systematic evaluation of single cell RNA-seq analysis pipelines | Nature Communications
+https://www.nature.com/articles/s41592-021-01171-x#Sec6 | The triumphs and limitations of computational methods for scRNA-seq | Nature Methods
+https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs42003-022-04093-2 | idp.nature.com
+https://feedly.com/i/collection/content/user/85292552-d294-4d2c-96e3-22037db87808/category/abba98d8-b16e-480d-ab32-e77ef1fa2f52 | feedly.com
+https://www.nature.com/articles/s41598-024-51755-8 | Deep learning strategies with CReToNeXt-YOLOv5 for advanced pig face emotion detection | Scientific Reports
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09833-0 | Genomic data integration tutorial, a plant case study | BMC Genomics | Full Text
+https://www.biorxiv.org/content/10.1101/2024.01.08.574189v1?rss=1 | Machine Learning-based Classification of transcriptome Signatures of non-ulcerative Bladder Pain Syndrome | bioRxiv
+https://www.biorxiv.org/content/10.1101/2024.01.05.574359v1?rss=1 | TrustAffinity: accurate, reliable and scalable out-of-distribution protein-ligand binding affinity prediction using trustworthy deep learning | bioRxiv
+https://www.biorxiv.org/content/10.1101/2024.01.07.574567v1?rss=1 | MATE-Pred: Multimodal Attention-based TCR-Epitope interaction Predictor | bioRxiv
+https://www.biorxiv.org/content/10.1101/2024.01.05.574445v1?rss=1 | COFFEE: Consensus Single Cell-Type Specific Inference for Gene Regulatory Networks | bioRxiv
+https://www.rna-seqblog.com/could-the-optimal-pipeline-be-predicted-for-a-given-scrna-seq-dataset/ | Could the optimal pipeline be predicted for a given scRNA-Seq dataset? | RNA-Seq Blog
+https://www.rna-seqblog.com/lrt-integrative-analysis-of-scrna-seq-and-sctcr-seq-data-to-investigate-clonal-differentiation-heterogeneity/ | LRT – Integrative analysis of scRNA-seq and scTCR-seq data to investigate clonal differentiation heterogeneity | RNA-Seq Blog
+https://www.frontiersin.org/articles/10.3389/fimmu.2023.1306169/full#B12 | Frontiers | Current annotation strategies for T cell phenotyping of single-cell RNA-seq data
+https://www.frontiersin.org/files/Articles/1306169/fimmu-14-1306169-HTML/image_m/fimmu-14-1306169-t001.jpg | fimmu-14-1306169-t001.jpg (1460×947)
+https://www.rna-seqblog.com/single-cell-rna-sequencing-derived-immune-atlas-at-cell-level-points-to-new-combination-treatment-for-incurable-childhood-cancer/ | Single-cell RNA sequencing derived immune atlas at cell level points to new combination treatment for incurable childhood cancer | RNA-Seq Blog
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=34062119 | Cited In for PMID: 34062119 - Search Results - PubMed
+https://www.nature.com/articles/s41590-023-01710-y#data-availability | Multimodal profiling reveals site-specific adaptation and tissue residency hallmarks of γδ T cells across organs in mice | Nature Immunology
+https://github.com/sagar161286/multimodal_gdTcells | sagar161286/multimodal_gdTcells: Multimodal profiling reveals site-specific adaptation and tissue residency hallmarks of γδ T cells across organs in mice.
+https://www.nature.com/articles/s42003-023-05669-2#data-availability | Characterizing immune variation and diagnostic indicators of preeclampsia by single-cell RNA sequencing and machine learning | Communications Biology
+https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-023-06311-1 | idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-023-06311-1
+https://docs.google.com/document/d/17HaIMSaWmU83aHAlVdg0jU6SjgpGuEdIYVAx2lWAOuA/edit#heading=h.b9k0gr7ja6ws | Immunology notes - Google Docs
+https://docs.google.com/document/d/1saXfTcJoxTktv6hFvQayheeTwyHObPL3381hWWdQrmA/edit?pli=1 | scRNA sequencing notes - Google Docs
+https://docs.google.com/document/d/1r5yJxcR9jWtfVuft_KyGjOFR27cpG5XRi0G-9fhKfwc/edit | Bronchial brushings dataset notes/logic - Google Docs
+https://github.com/satijalab/seurat/issues/2906 | Integration, SCT, and Expression Slot Clarification · Issue #2906 · satijalab/seurat
+https://docs.google.com/document/d/1SgNW1yu_Aj5iQ9LHbJ8-g7fycev6ud5BGkP9QNsccF4/edit#heading=h.idenoawf19tm | Statistics revision - Google Docs
+https://www.10xgenomics.com/analysis-guides/differential-gene-expression-analysis-in-scrna-seq-data-between-conditions-with-biological-replicates | Differential Gene Expression Analysis in scRNA-seq Data between Conditions with Biological Replicates - 10x Genomics
+https://www.nature.com/articles/s41467-021-25960-2 | Confronting false discoveries in single-cell differential expression | Nature Communications
+https://www.nature.com/articles/s41586-023-06816-9 | Dictionary of immune responses to cytokines at single-cell resolution | Nature
+https://www.nature.com/articles/s41467-022-35519-4 | A balanced measure shows superior performance of pseudobulk methods in single-cell RNA-sequencing analysis | Nature Communications
+https://www.nature.com/articles/s41467-022-35520-x | Reply to: A balanced measure shows superior performance of pseudobulk methods in single-cell RNA-sequencing analysis | Nature Communications
+https://www.mdpi.com/2075-1729/12/6/850 | Life | Free Full-Text | Recommendations of scRNA-seq Differential Gene Expression Analysis Based on Comprehensive Benchmarking
+https://github.com/interactivereport/scRNAseq_DE/blob/main/R/BiostatsSingleCell.R | scRNAseq_DE/R/BiostatsSingleCell.R at main · interactivereport/scRNAseq_DE
+https://scholar.google.com/scholar?cites=5674952513575267592&as_sdt=2005&sciodt=0,5&hl=en | Gagnon: Recommendations of scRNA-seq differential... - Google Scholar
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10028920/ | Sensitive cluster-free differential expression testing - PMC
+https://github.com/lhe17/nebula?tab=readme-ov-file#testing-contrasts | lhe17/nebula
+https://www.nature.com/articles/s42003-021-02146-6 | NEBULA is a fast negative binomial mixed model for differential or co-expression analysis of large-scale multi-subject single-cell data | Communications Biology
+https://www.10xgenomics.com/support/software/cell-ranger/latest/algorithms-overview/cr-5p-vdj-algorithm | Cell Ranger's V(D)J Algorithm - Official 10x Genomics Support
+https://www.biostars.org/p/9545773/ | Two 10x single cell sample quality control steps and differential expression analysis
+https://docs.google.com/presentation/d/1UT5Du1datJgEN8qN-ovtHjekJ2jPmImFY-m9CZB5pLA/edit#slide=id.g2a93adb5860_0_352 | Christmas Pank Bronchial Brushings - Google Slides
+https://docs.google.com/presentation/d/1WRzA1wZL8nkBLlYvdgfBAwafdObD6qk9EunOr9OGrpw/edit#slide=id.p | Brionchial Data presentation Formatted - Google Slides
+https://docs.google.com/presentation/d/1wE_1GQ2KO9Rffkco0zXuGTmQHCu04j_qrARR2al8_tc/edit#slide=id.g24d4802cadd_0_516 | NOTES_Investigating a Novel Treatment using 3’ scRNA-seq of Nasal Epithelial Cells - Google Slides
+https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/ | Gene Set Enrichment Analysis with ClusterProfiler – NGS Analysis
+https://www.pnas.org/doi/10.1073/pnas.0506580102 | Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles | PNAS
+https://stackoverflow.com/questions/36094474/defining-the-control-value-in-a-model-matrix | r - defining the control value in a model.matrix - Stack Overflow
+https://bioconductor.org/packages/devel/workflows/vignettes/RNAseq123/inst/doc/designmatrices.html#fig:tissuecell | A guide to creating design matrices for gene expression experiments
+https://biometry.github.io/APES//LectureNotes/2016-JAGS/Overdispersion/OverdispersionJAGS.html | Introduction: what is overdispersion?
+https://www.nature.com/articles/s42003-021-02146-6#:~:text=The%20cell%2Dlevel%20overdispersion%20reflects,such%20as%20ribosome%20RNA%20fraction. | NEBULA is a fast negative binomial mixed model for differential or co-expression analysis of large-scale multi-subject single-cell data | Communications Biology
+https://www.researchgate.net/figure/Comparison-of-estimated-cell-level-and-subject-level-overdispersion-parameters-between_fig1_351879044 | Comparison of estimated cell-level and subject-level overdispersion... | Download Scientific Diagram
+https://www.google.com/search?q=mixed+model+with+random+effect+or+psuedobulk+small+sample+size&sca_esv=3ce1258c96567b3a&sxsrf=ACQVn0-v8jovVu3TplKG5YjJy6328-X3gA%3A1707995278830&ei=jvDNZfmiMuLXhbIP-MyOuAM&oq=mixed+model+with+random+effect+or+psuedobulk+small+sample+&gs_lp=Egxnd3Mtd2l6LXNlcnAiOm1peGVkIG1vZGVsIHdpdGggcmFuZG9tIGVmZmVjdCBvciBwc3VlZG9idWxrIHNtYWxsIHNhbXBsZSAqAggAMgcQIRgKGKABSIgvUJIKWKslcAN4AZABAJgBmAGgAasNqgEDOC44uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCBAAGIAEGKIEwgIJECEYChigARgK4gMEGAAgQYgGAZAGCA&sclient=gws-wiz-serp | mixed model with random effect or psuedobulk small sample size - Google Search
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7854630/ | A practical solution to pseudoreplication bias in single-cell studies - PMC
+https://www.biorxiv.org/content/10.1101/2022.02.16.480662v1.full.pdf | Benchmarking methods for detecting differential states between conditions from multi-subject single-cell RNA-seq data
+https://support.bioconductor.org/p/132385/ | Using mixed-model in differential expression analysis for bulk RNAseq
+https://stats.stackexchange.com/questions/388937/minimum-sample-size-per-cluster-in-a-random-effect-model | regression - Minimum sample size per cluster in a random effect model - Cross Validated
+https://github.com/satijalab/seurat/issues/4896 | Using SCTransform and Harmony · Issue #4896 · satijalab/seurat
+https://github.com/satijalab/seurat/issues/5655 | "batch_var" in SCTransform and Harmony · Issue #5655 · satijalab/seurat
+https://github.com/satijalab/sctransform/issues/182 | Workflow for SCTransform and merged samples · Issue #182 · satijalab/sctransform
+https://github.com/satijalab/seurat/issues/7866 | SCTransform and batch effect · Issue #7866 · satijalab/seurat
+https://github.com/hbctraining/scRNA-seq_online/blob/master/lessons/mitoRatio.md | scRNA-seq_online/lessons/mitoRatio.md at master · hbctraining/scRNA-seq_online
+https://bioconductor.org/packages/release/bioc/vignettes/EnrichmentBrowser/inst/doc/EnrichmentBrowser.html#11_For_non-R_users:_command_line_invocation | Seamless navigation through combined results of set- & network-based enrichment analysis
+https://bioconductor.org/packages/3.19/NetGSA/ | Bioconductor - Help
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3378813/ | Pathway analysis of genomic data: concepts, methods, and prospects for future development - PMC
+https://pubmed.ncbi.nlm.nih.gov/21900207/ | Gene set enrichment analysis: performance evaluation and usage guidelines - PubMed
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3357488/ | Gene set enrichment analysis: performance evaluation and usage guidelines - PMC
+https://www.genepattern.org/modules/docs/GSEA/14#gsc.tab=0 | GenePattern
