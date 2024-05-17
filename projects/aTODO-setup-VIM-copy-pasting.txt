@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim | How to copy to clipboard in Vim? - Stack Overflow
+https://superuser.com/questions/1559544/how-to-copy-from-vim-to-clipboard-on-ubuntu-20-04 | How to copy from vim to clipboard on ubuntu 20.04 - Super User
+https://stackoverflow.com/questions/11489428/how-can-i-make-vim-paste-from-and-copy-to-the-systems-clipboard | editor - How can I make Vim paste from (and copy to) the system's clipboard? - Stack Overflow
+https://www.google.com/search?q=vim-gtk3+vs+vim-gtk&oq=vim-gtk3+vs+vim-gtk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyCggEEAAYgAQYogQyCggFEAAYgAQYogTSAQg2ODM2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | vim-gtk3 vs vim-gtk - Google Search
+https://askubuntu.com/questions/281886/what-are-the-differences-between-the-different-vim-packages-available-in-ubuntu | gvim - What are the differences between the different vim packages available in Ubuntu? - Ask Ubuntu
+

@@ -1,0 +1,78 @@
+https://www.google.com/search?q=vrsingle+cell&oq=vrsingle+cell&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDQ4MTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | vrsingle cell - Google Search
+https://www.cellexalvr.med.lu.se/ | CellexalVR
+https://www.cell.com/iscience/fulltext/S2589-0042(21)01220-7#sec5.1 | CellexalVR: A virtual reality platform to visualize and analyze single-cell omics data: iScience
+https://www.nature.com/articles/s41467-021-22570-w | The VRNetzer platform enables interactive network analysis in Virtual Reality | Nature Communications
+https://www.nature.com/articles/s41598-019-42178-x?fromPaywallRec=false | Exploratory Gene Ontology Analysis with Interactive Visualization | Scientific Reports
+https://aegis.stanford.edu/ | AEGIS Documentation
+https://www.nature.com/articles/s41598-023-34163-2?fromPaywallRec=false | STAGEs: A web-based tool that integrates data visualization and pathway enrichment analysis for gene expression studies | Scientific Reports
+https://kuanrongchan-stages-stages-vpgh46.streamlit.app/Clustergram | Home · Streamlit
+https://scholar.google.co.uk/scholar?as_ylo=2023&q=pathway+analysis+visualization+single+cell&hl=en&as_sdt=0,5&as_vis=1 | pathway analysis visualization single cell - Google Scholar
+https://www.nature.com/articles/s41467-023-43019-2?fromPaywallRec=false | Paired single-cell multi-omics data integration with Mowgli | Nature Communications
+https://www.nature.com/articles/s41576-023-00586-w#citeas | Best practices for single-cell analysis across modalities | Nature Reviews Genetics
+https://zouter.shinyapps.io/server/ | Selecting the most optimal TI method - dynguidelines
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9710656/ | decoupleR: ensemble of computational methods to infer biological activities from omics data - PMC
+https://www.bioconductor.org/packages/release/bioc/html/decoupleR.html | Bioconductor - decoupleR
+https://www.bioconductor.org/packages/release/bioc/vignettes/decoupleR/inst/doc/tf_sc.html#4_Activity_inference_with_Univariate_Linear_Model_(ULM) | Transcription factor activity inference from scRNA-seq
+https://github.com/saezlab/CollecTRI/blob/main/scripts/casestudy/02.2_pbmc_TFactivity.R | CollecTRI/scripts/casestudy/02.2_pbmc_TFactivity.R at main · saezlab/CollecTRI
+https://www.bioconductor.org/packages/release/bioc/vignettes/decoupleR/inst/doc/decoupleR.html | Introduction
+https://www.bioconductor.org/packages/release/bioc/vignettes/decoupleR/inst/doc/pw_sc.html#5_Exploration | Pathway activity inference from scRNA-seq
+https://www.nature.com/articles/s41467-022-32205-3?fromPaywallRec=false | Connecting omics signatures and revealing biological mechanisms with iLINCS | Nature Communications
+http://www.ilincs.org/ilincs/genes/list | DCIC integrative LINCS genomics data portal | iLINCS
+https://david.ncifcrf.gov/list.jsp | DAVID: Database for Annotation, Visualization, and Integrated Discovery (Laboratory of Human Retrovirology and Immunoinformatics (LHRI); National Institute of Allergies and Infectious Diseases (NIAID); Leidos Biomedical Research, Inc. (LBR)
+https://david.ncifcrf.gov/helps/DAVID_presentation_March_27_2024.pdf | DAVID usage April 2017-March 2018
+https://david.ncifcrf.gov/helps/tutorial.pdf | Quick Start Tutorial for Using the DAVID Bioinformatics Resources
+https://lincsportal.ccs.miami.edu/dcic-portal/ | LINCS Data Portal
+http://www.ilincs.org/ilincs/analyzeWithGenes/TlCrSBXeFvU/signatures/enrichment | DCIC integrative LINCS genomics data portal | iLINCS
+http://www.ilincs.org/ilincs/genes | DCIC integrative LINCS genomics data portal | iLINCS
+https://maayanlab.cloud/Enrichr/# | Enrichr
+https://maayanlab.cloud/enrichr-kg/tutorial | Enrichr-KG
+http://www.ilincs.org/apps/signeta/ | SigNetA
+https://www.nature.com/articles/s41467-022-32205-3 | Connecting omics signatures and revealing biological mechanisms with iLINCS | Nature Communications
+http://www.ilincs.org/help/F%20A%20Q/What-is-a-signature | What is a signature - iLINCS Docs
+https://cellexalvr.med.lu.se/cellexalvrr-vignette | A guide to using cellexalvrR - Quick Start
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8582280/ | singlecellVR: Interactive Visualization of Single-Cell Data in Virtual Reality - PMC
+https://github.com/pinellolab/singlecellvr | pinellolab/singlecellvr
+https://www.dropbox.com/s/ok6fzeqdqzam0kk/seurat3d_10xpbmc.loom?e=1&dl=0 | seurat3d_10xpbmc.loom
+https://www.nature.com/articles/s41590-024-01798-w | Thioredoxin is a metabolic rheostat controlling regulatory B cells | Nature Immunology
+https://outlook.office.com/mail/ | Email - Fulton, William T J - Outlook
+https://eaacimembers.b2clogin.com/eaacimembers.onmicrosoft.com/b2c_1_sign-basic/oauth2/v2.0/authorize?client_id=ae3be937-9e3b-4d23-b23a-d2df26f74ab2&scope=openid%20https%3A%2F%2Feaacimembers.onmicrosoft.com%2Fd365%2Fd365api%20profile%20offline_access&redirect_uri=https%3A%2F%2Fmy.eaaci.org&client-request-id=c81b0f1f-c981-409b-82a0-22e1ac99040a&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=3.2.0&client_info=1&code_challenge=B3dB2f7L7PAcfaklYQfgrokZM1my5q5CD-rWPCfPEdM&code_challenge_method=S256&login_hint=janice.lee-layhadi07%40imperial.ac.uk&X-AnchorMailbox=Oid%3A0c03ea21-606c-4343-8182-c931ea480a05-b2c_1_sign-basic%40062b1975-8cdc-4dde-a787-6dd492f014ba&nonce=97ad174c-6591-4773-860a-50d5e4c33a71&state=eyJpZCI6IjA0Mzk1NmNhLTVjMTktNDVhZC04NDhmLTEwZTUyYWM4ODQ4NyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D | Login | My EAACI
+https://www.sciencedirect.com/science/article/pii/S0091674923000374?via%3Dihub#fig2 | Single-cell RNA sequencing identifies precise tolerogenic cellular and molecular pathways induced by depigmented-polymerized grass pollen allergen extract - ScienceDirect
+https://www.google.com/search?q=how+much+is+a+vr+headset&oq=how+much+is+a+vr+he&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8#ip=1 | how much is a vr headset - Google Search
+https://www.sc-best-practices.org/mechanisms/gene_regulatory_networks.html | 20. Gene regulatory networks — Single-cell best practices
+https://github.com/DavisLaboratory/scDECAF | DavisLaboratory/scDECAF: Reference-free celltype and phenotype annotation in single cell RNAseq by learning geneset representations
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116215/ | On the influence of several factors on pathway enrichment analysis - PMC
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=35453140 | Cited In for PMID: 35453140 - Search Results - PubMed
+https://pubmed.ncbi.nlm.nih.gov/38216898/ | Robustness evaluations of pathway activity inference methods on gene expression data - PubMed
+https://academic.oup.com/bib/article/25/3/bbae116/7636146?login=true | Generalized reporter score-based enrichment analysis for omics data | Briefings in Bioinformatics | Oxford Academic
+https://github.com/Asa12138/Analysis_code/blob/main/GRSA_figures/figures.Rmd | Analysis_code/GRSA_figures/figures.Rmd at main · Asa12138/Analysis_code
+https://www.biostars.org/p/9574736/ | Selecting MOUSE gene set libraries in Enrichr
+https://badge.dimensions.ai/details/doi/10.1093/nar/gkad393?domain=https://academic.oup.com | Dimensions Badges
+https://www.google.com/search?q=grn+single+cell+tutorial&sca_esv=6f22e6a6a58463ac&sxsrf=ADLYWIKF89q4Q3J-TCd_jOFAXBS4G6GVpQ:1715549092020&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwix0eWxhomGAxVsX_EDHXsDBowQpwV6BAgDEAs&biw=1702&bih=847&dpr=1.1#ip=1 | grn single cell tutorial - Google Search
+https://frontlinegenomics.com/how-to-infer-grns/ | How-to: Infer Gene Regulatory Networks from Omics Data
+https://academic.oup.com/nar/article/52/D1/D293/7331011 | scGRN: a comprehensive single-cell gene regulatory network platform of human and mouse | Nucleic Acids Research | Oxford Academic
+https://bio.liclab.net/scGRN/analysis/differential_network.php | Differential TF-Target Network Analysis
+https://bio.liclab.net/scGRN/index.php | /scGRN
+https://bio.liclab.net/scGRN/help.php#432-tf-enrichment-analysis | /scGRN
+https://www.nature.com/articles/s41467-023-38637-9 | Inference of cell type-specific gene regulatory networks on cell lineages from single cell omic datasets | Nature Communications
+https://yulab-smu.top/biomedical-knowledge-mining-book/dose-enrichment.html | Chapter 10 Disease enrichment analysis | Biomedical Knowledge Mining using GOSemSim and clusterProfiler
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04461-5 | GeneTonic: an R/Bioconductor package for streamlining the interpretation of RNA-seq data | BMC Bioinformatics | Full Text
+https://bioconductor.org/packages/release/bioc/vignettes/GeneTonic/inst/doc/GeneTonic_manual.html#4_The_GeneTonic_functionality | The GeneTonic User’s Guide
+http://shiny.imbei.uni-mainz.de:3838/GeneTonic/ | GeneTonic
+https://mkempenaar.github.io/gene_expression_analysis/chapter-5.html | Data Analysis and Visualization | Capstone Project - Gene Expression Analysis
+https://yulab-smu.top/biomedical-knowledge-mining-book/enrichplot.html | Chapter 15 Visualization of functional enrichment result | Biomedical Knowledge Mining using GOSemSim and clusterProfiler
+https://www.google.com/search?sca_esv=f28c0860657ada00&cs=1&sxsrf=ADLYWIIdB1_fqDsVs_l77aa4-iKF4WJHZg:1715691963295&q=when+to+include+interaction+terms+in+regression+scRNA+across+cell+types&spell=1&sa=X&ved=2ahUKEwjJ1o_Qmo2GAxWvVUEAHSk4AkQ4ChAFKAB6BAgAEAE&biw=1745&bih=981&dpr=1.1 | when to include interaction terms in regression scRNA across cell types - Google Search
+https://docs.google.com/document/d/1an3X5luU9QgEoYYTGyRh7KYfswPgFjtvoYxzkYaBQ6Q/edit | bulk RNA notes - Google Docs
+https://bioconductor.org/packages/devel/workflows/vignettes/RNAseq123/inst/doc/designmatrices.html | A guide to creating design matrices for gene expression experiments
+https://www.google.com/search?q=not+enough+power+to+use+interaction+term&oq=not+enough+power+to+use+interaction+term&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIGCAMQIRgV0gEIOTQyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1 | not enough power to use interaction term - Google Search
+https://www.google.com/search?q=what+is+rank+in+enrichment+result&oq=what+is+rank+in+enrichment+result&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDY3ODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | what is rank in enrichment result - Google Search
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=28499413 | Cited In for PMID: 28499413 - Search Results - PubMed
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9851315/ | The hitchhikers’ guide to RNA sequencing and functional analysis - PMC
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7820859/ | Toward a gold standard for benchmarking gene set enrichment analysis - PMC
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10589751/ | Delving into gene-set multiplex networks facilitated by a k-nearest neighbor-based measure of similarity - PMC
+https://pubmed.ncbi.nlm.nih.gov/36197939/ | Random-effects meta-analysis of effect sizes as a unified framework for gene set analysis - PubMed
+https://yulab-smu.top/biomedical-knowledge-mining-book/clusterprofiler-comparecluster.html | Chapter 14 Biological theme comparison | Biomedical Knowledge Mining using GOSemSim and clusterProfiler
+https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim | How to copy to clipboard in Vim? - Stack Overflow
+https://superuser.com/questions/1559544/how-to-copy-from-vim-to-clipboard-on-ubuntu-20-04 | How to copy from vim to clipboard on ubuntu 20.04 - Super User
+https://stackoverflow.com/questions/11489428/how-can-i-make-vim-paste-from-and-copy-to-the-systems-clipboard | editor - How can I make Vim paste from (and copy to) the system's clipboard? - Stack Overflow
+https://www.google.com/search?q=vim-gtk3+vs+vim-gtk&oq=vim-gtk3+vs+vim-gtk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyCggEEAAYgAQYogQyCggFEAAYgAQYogTSAQg2ODM2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | vim-gtk3 vs vim-gtk - Google Search
+https://askubuntu.com/questions/281886/what-are-the-differences-between-the-different-vim-packages-available-in-ubuntu | gvim - What are the differences between the different vim packages available in Ubuntu? - Ask Ubuntu
