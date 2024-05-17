@@ -9,7 +9,7 @@ projects/ used like ~/projects, but without any subfolders. This way lists relev
 
  - aGeneral-\*
    - Tab groups that are of general use, even if project-specific
- - aTODO
+ - aTODO-\*
    - Tab groups relating to mini-projects / tasks like customising workstation setup
 
 
