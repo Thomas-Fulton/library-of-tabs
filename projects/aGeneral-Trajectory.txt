@@ -1,0 +1,16 @@
+https://www.sc-best-practices.org/trajectories/pseudotemporal.html | 13. Pseudotemporal ordering — Single-cell best practices
+https://www.pnas.org/doi/full/10.1073/pnas.2100293118 | Detection of differentially abundant cell subpopulations in scRNA-seq data | PNAS
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9357053/ | Cell function and identity revealed by comparative scRNA-seq analysis in human nasal, bronchial and epididymis epithelia - PMC
+https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F&roaming=true&loginId=FultonWT@cardiff.ac.uk | Clarivate
+https://www.gsea-msigdb.org/gsea/msigdb/human/genesets.jsp?collection=C8 | GSEA | MSigDB | Browse Human Gene Sets
+https://yulab-smu.top/biomedical-knowledge-mining-book/enrichplot.html | Chapter 15 Visualization of functional enrichment result | Biomedical Knowledge Mining using GOSemSim and clusterProfiler
+https://scholar.google.co.uk/scholar?q=trajectory+and+differential+abundance+scRNA&hl=en&as_sdt=0&as_vis=1&oi=scholart | trajectory and differential abundance scRNA - Google Scholar
+https://link.springer.com/protocol/10.1007/978-1-0716-2756-3_14 | A Guide to Trajectory Inference and RNA Velocity | SpringerLink
+https://link.springer.com/article/10.1038/s41467-020-14766-3?fromPaywallRec=false | Trajectory-based differential expression analysis for single-cell sequencing data | Nature Communications
+https://link.springer.com/protocol/10.1007/978-1-0716-2756-3_14?fromPaywallRec=false | A Guide to Trajectory Inference and RNA Velocity | SpringerLink
+https://github.com/MarioniLab/miloR/issues/150 | error in testNhoods sample names in design matrix and nhood counts are not matched · Issue #150 · MarioniLab/miloR
+https://stackoverflow.com/questions/43515112/reversing-default-scale-gradient-ggplot2 | r - Reversing default scale gradient ggplot2 - Stack Overflow
+https://assets.researchsquare.com/files/rs-2899233/v1/15446388-c386-4fa9-9dd9-e80259086835.pdf?c=1687517072 | 15446388-c386-4fa9-9dd9-e80259086835.pdf
+https://thorax.bmj.com/content/early/2024/02/05/thorax-2022-219958 | COPD basal cells are primed towards secretory to multiciliated cell imbalance driving increased resilience to environmental stressors | Thorax
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9405811/ | Relationships between Airway Remodeling and Clinical Characteristics in COPD Patients - PMC
+https://academic.oup.com/bioinformatics/article/34/7/1246/4708233?login=true

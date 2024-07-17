@@ -1,0 +1,16 @@
+https://www.bioconductor.org/packages/release/bioc/vignettes/miloR/inst/doc/milo_gastrulation.html | Differential abundance testing with Milo - Mouse gastrulation example
+https://marionilab.github.io/miloR/articles/milo_gastrulation.html | Differential abundance testing with Milo - Mouse gastrulation example • miloR
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10762948/#Sec8 | Benchmarking differential abundance methods for finding condition-specific prototypical cells in multi-sample single-cell datasets - PMC
+https://www.sc-best-practices.org/conditions/compositional.html | 17. Compositional analysis — Single-cell best practices
+https://www.nature.com/articles/s41587-021-01033-z | Differential abundance testing on single-cell data using k-nearest neighbor graphs | Nature Biotechnology
+https://bioconductor.org/books/3.14/OSCA.advanced/single-nuclei-rna-seq-processing.html | Chapter 11 Single-nuclei RNA-seq processing | Advanced Single-Cell Analysis with Bioconductor
+https://academic.oup.com/bioinformatics/article/38/20/4720/6675456 | propeller: testing for differences in cell type proportions in single cell data | Bioinformatics | Oxford Academic
+https://badge.dimensions.ai/details/doi/10.1093/bioinformatics/btac582?domain=https://academic.oup.com | Dimensions Badges
+https://github.com/phipsonlab/speckle | phipsonlab/speckle: R package for analysing single cell data
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9563678/#:~:text=Results,under%20a%20variety%20of%20scenarios. | propeller: testing for differences in cell type proportions in single cell data - PMC
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=36005887&page=3 | Cited In for PMID: 36005887 - Search Results - PubMed
+https://pubmed.ncbi.nlm.nih.gov/38168317/ | Image-based spatial transcriptomics identifies molecular niche dysregulation associated with distal lung remodeling in pulmonary fibrosis - PubMed
+https://www.pnas.org/doi/abs/10.1073/pnas.2203828120?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed | sccomp: Robust differential composition and variability analysis for single-cell data | PNAS
+https://pubmed.ncbi.nlm.nih.gov/37525279/ | A meta-analysis of immune-cell fractions at high resolution reveals novel associations with common phenotypes and health outcomes - PubMed
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02980-3 | DCATS: differential composition analysis for flexible single-cell experimental designs | Genome Biology | Full Text
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10241145/ | Cell-attribute aware community detection improves differential abundance testing from single-cell RNA-Seq data - PMC

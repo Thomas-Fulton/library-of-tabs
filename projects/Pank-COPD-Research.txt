@@ -1,0 +1,15 @@
+https://www.google.com/search?q=basal+cell+markers+bronchial+epithelium&oq=basal+cell+markers+bronchial+epithelium&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTEwODU0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | basal cell markers bronchial epithelium - Google Search
+https://www.stemcell.com/airway-epithelial-cells-lp.html#:~:text=The%20most%20widely%20used%20basal,%2C%20NGFR%2C%20KRT5%20and%20KRT14.&text=Of%20these%20markers%2C%20KRT5%20and,of%20the%20epithelium%20is%20low. | Airway Epithelial Cells of the Human Respiratory System | STEMCELL Technologies
+https://www.google.com/search?q=basal+cell+markers+bronchial+epithelium&sca_esv=c4520c9ea19d39e2&biw=1702&bih=847&sxsrf=ADLYWII4GiOjmACjQbqibZdlIJO-eZj8cg%3A1715339856412&ei=UAI-Zv_cGMedkdUP78izaA&ved=0ahUKEwj_xL32-oKGAxXHTqQEHW_kDA0Q4dUDCBA&uact=5&oq=basal+cell+markers+bronchial+epithelium&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ2Jhc2FsIGNlbGwgbWFya2VycyBicm9uY2hpYWwgZXBpdGhlbGl1bTIEECMYJzIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIESJQeUPUEWMIccAF4AJABAJgBZKABlQSqAQM2LjG4AQPIAQD4AQGYAgigAqIEwgIOEAAYgAQYsAMYhgMYigXCAgsQABiABBiwAxiiBMICBxAjGCcYrgKYAwCIBgGQBgmSBwM3LjGgB7Ii&sclient=gws-wiz-serp | basal cell markers bronchial epithelium - Google Search
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6290945/ | Ontogeny and Biology of Human Small Airway Epithelial Club Cells - PMC
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8974818/ | Airway Basal Cells, Protectors of Epithelial Walls in Health and Respiratory Diseases - PMC
+https://elifesciences.org/articles/80083 | Airway basal cells show regionally distinct potential to undergo metaplastic differentiation | eLife
+https://www.atsjournals.org/doi/10.1164/rccm.201904-0792OC#_i6 | Single-Cell Reconstruction of Human Basal Cell Diversity in Normal and Idiopathic Pulmonary Fibrosis Lungs | American Journal of Respiratory and Critical Care Medicine
+https://www.atsjournals.org/doi/citedby/10.1164/rccm.201904-0792OC?role=tab | Single-Cell Reconstruction of Human Basal Cell Diversity in Normal and Idiopathic Pulmonary Fibrosis Lungs | American Journal of Respiratory and Critical Care Medicine
+https://github.com/gc-github-bio/Normal-and-IPF-lung/blob/master/AfterQC.R | Normal-and-IPF-lung/AfterQC.R at master · gc-github-bio/Normal-and-IPF-lung
+https://www.nature.com/articles/s41586-018-0394-6#additional-information | A single-cell atlas of the airway epithelium reveals the CFTR-rich pulmonary ionocyte | Nature
+https://kleintools.hms.harvard.edu/paper_websites/airway_2018/ | Airway scRNA-seq
+https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/uninjured_MTECs/uninjured_MTECs | uninjured_MTECs
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102580 | GEO Accession viewer
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1351148/ | The Biology of Human Lymphoid Malignancies Revealed by Gene Expression Profiling - PMC
+https://www.nature.com/articles/s41591-021-01332-7 | Transcriptional analysis of cystic fibrosis airways at single-cell resolution reveals altered epithelial cell states and composition | Nature Medicine
