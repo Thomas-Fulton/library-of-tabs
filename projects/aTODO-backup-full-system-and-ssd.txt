@@ -44,3 +44,4 @@ https://www.google.com/search?q=rescuezilla+vs+foxclone&sca_esv=f6180b2ec0c6a1f3
 https://forums.linuxmint.com/viewtopic.php?t=392747 | GUI Backup Software: FoxClone vs. Rescuezilla - Linux Mint Forums
 https://www.google.com/search?q=foxclone+tutorial&oq=foxclone+tutorial+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCTEyMDE3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | foxclone tutorial - Google Search
 https://www.linux.org/threads/important-things-to-know-when-creating-an-image-of-your-system.45663/ | Important Things To Know When Creating An Image Of Your System. | Linux.org
+https://ubuntuforums.org/showthread.php?t=2436006
