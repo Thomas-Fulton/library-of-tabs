@@ -1,0 +1,56 @@
+https://www.sciencedirect.com/science/article/pii/S2001037021000192 | Automated methods for cell type annotation on scRNA-seq data - ScienceDirect
+https://academic.oup.com/bib/article/25/2/bbae072/7618083?login=false | scDOT: enhancing single-cell RNA-Seq data annotation and uncovering novel cell types through multi-reference integration | Briefings in Bioinformatics | Oxford Academic
+https://www.mdpi.com/2073-4409/12/15/1970 | Cells | Free Full-Text | A Review of Single-Cell RNA-Seq Annotation, Integration, and Cell–Cell Communication
+https://www.embopress.org/doi/full/10.15252/msb.20199389 | scClassify: sample size estimation and multiscale classification of cells using single and multiple reference | Molecular Systems Biology
+https://academic.oup.com/bib/article/22/6/bbab236/6308199#312139462 | Consensus clustering of single-cell RNA-seq data by enhancing network affinity | Briefings in Bioinformatics | Oxford Academic
+https://github.com/shaoqiangzhang/SCENA | shaoqiangzhang/SCENA: Consensus Clustering of Single-cell RNA-seq Data by Enhancing Network Affinity
+https://ieeexplore.ieee.org/document/10264908 | Consensus Clustering Strategy for Cell Type Assignments of scRNA-seq Data | IEEE Conference Publication | IEEE Xplore
+https://bioconductor.org/packages/devel/bioc/vignettes/scAnnotatR/inst/doc/classifying-cells.html | Introduction to scAnnotatR
+https://badge.dimensions.ai/details/id/pub.1156154900 | Dimensions – scAnnotate: an automated cell-type annotation tool for single-cell RNA-sequencing data
+https://www.sciencedirect.com/science/article/pii/S0165993624003017?via%3Dihub#bib76 | Artificial intelligence in cell annotation for high-resolution RNA sequencing data - ScienceDirect
+https://academic.oup.com/gpb/article/19/2/267/7229882 | Evaluation of Cell Type Annotation R Packages on Single-Cell RNA-Seq Data | Genomics, Proteomics & Bioinformatics | Oxford Academic
+https://www.sciencedirect.com/science/article/pii/S0010482522011179#bib19 | scWECTA: A weighted ensemble classification framework for cell type assignment based on single cell transcriptome - ScienceDirect
+https://github.com/ttren-sc/scWECTA | ttren-sc/scWECTA
+https://www.biorxiv.org/content/10.1101/2024.04.06.588373v1 | Interpreting single-cell and spatial omics data using deep networks training dynamics | bioRxiv
+https://cran.r-project.org/web/packages/scAnnotate/index.html | CRAN: Package scAnnotate
+https://cran.r-project.org/web/packages/scAnnotate/vignettes/Introduction.html | Introduction
+http://biocc.hrbmu.edu.cn/ACT/ | ACT
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=34160582 | Cited In for PMID: 34160582 - Search Results - PubMed
+https://pubmed.ncbi.nlm.nih.gov/37769630/ | Self-supervised deep clustering of single-cell RNA-seq data to hierarchically detect rare cell populations - PubMed
+https://pubmed.ncbi.nlm.nih.gov/38778573/ | Deep Batch Integration and Denoise of Single-Cell RNA-Seq Data - PubMed
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed&from_uid=39060167 | Similar articles for PMID: 39060167 - Search Results - PubMed
+https://academic.oup.com/bib/article/25/5/bbae371/7721463?login=true | scLEGA: an attention-based deep clustering method with a tendency for low expression of genes on single-cell RNA-seq data | Briefings in Bioinformatics | Oxford Academic
+https://github.com/Masonze/scLEGA-main | Masonze/scLEGA-main
+https://www.google.com/search?q=review+of+scRNA+seq+clustering+methods&oq=review+of+scRNA+seq+clustering+methods&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAHSAQg2Nzg1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | review of scRNA seq clustering methods - Google Search
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02622-0 | Benchmarking clustering algorithms on estimating the number of cell types from single-cell RNA-sequencing data | Genome Biology | Full Text
+https://github.com/Alexzsx/Single-cell-RNA-seq-Clustering | Alexzsx/Single-cell-RNA-seq-Clustering
+https://biocellgen-public.svi.edu.au/mig_2019_scrnaseq-workshop/clustering-and-cell-annotation.html#an-alternative-to-clustering-automatic-cell-annotation | 10 Clustering and cell annotation | Analysis of single cell RNA-seq data
+https://rnajournal.cshlp.org/content/early/2023/02/03/rna.078965.121.full.pdf | Review of Single-cell RNA-seq Data Clustering for Cell Type Identification and Characterization
+http://bio-bigdata.hrbmu.edu.cn/ImmCluster/annotation.jsp | ImmCluster
+https://link.springer.com/chapter/10.1007/978-3-031-13829-4_16?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot | SCDF: A Novel Single-Cell Classification Method Based on Dimension-Reduced Data Fusion | SpringerLink
+https://link.springer.com/article/10.1007/s10142-024-01415-x/tables/1 | Table 1 | A review on advancements in feature selection and feature extraction for high-dimensional NGS data analysis | Functional & Integrative Genomics
+https://www.sciencedirect.com/science/article/pii/S2001037022001416#section-cited-by | scEFSC: Accurate single-cell RNA-seq data analysis via ensemble consensus clustering based on multiple feature selections - ScienceDirect
+https://www.sciencedirect.com/science/article/pii/S0010482523004043 | Clustering ensemble in scRNA-seq data analysis: Methods, applications and challenges - ScienceDirect
+https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-85129761006&src=s&imp=t&sid=088b07b7291865e2d6ce50d75ea4858a&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=6b5037fd72dc1d074c580bab64dd415d | Scopus - 11 documents that cite: scEFSC: Accurate single-cell RNA-seq data analysis via ensemble consensus clustering based on multiple feature selections
+https://www.scopus.com/record/display.uri?eid=2-s2.0-85172991720&origin=resultslist&sort=plf-f&cite=2-s2.0-85129761006&src=s&imp=t&sid=088b07b7291865e2d6ce50d75ea4858a&sot=cite&sdt=a&sl=0&relpos=1&citeCnt=2&searchTerm= | Scopus - Document details - scFseCluster: a feature selection-enhanced clustering for single-cell RNA-seq data
+https://academic.oup.com/bib/article/25/5/bbae392/7730135 | comparison of scRNA-seq annotation methods based on experimentally labeled immune cell subtype dataset | Briefings in Bioinformatics | Oxford Academic
+https://pubmed.ncbi.nlm.nih.gov/28346451/ | SC3: consensus clustering of single-cell RNA-seq data - PubMed
+https://pubmed.ncbi.nlm.nih.gov/?sort=date&linkname=pubmed_pubmed_citedin&from_uid=34160582 | Cited In for PMID: 34160582 - Search Results - PubMed
+https://pubmed.ncbi.nlm.nih.gov/34160582/ | Consensus clustering of single-cell RNA-seq data by enhancing network affinity - PubMed
+https://pubmed.ncbi.nlm.nih.gov/38317054/ | CTISL: a dynamic stacking multi-class classification approach for identifying cell types from single-cell RNA-seq data - PubMed
+https://bioconductor.org/books/release/SingleRBook/advanced-options.html#cluster-level-annotation | Chapter 7 Advanced options | Assigning cell types with SingleR
+https://www.bioconductor.org/packages/release/bioc/vignettes/SingleR/inst/doc/SingleR.html | Using SingleR to annotate single-cell RNA-seq data
+https://pubmed.ncbi.nlm.nih.gov/36512878/ | scWECTA: A weighted ensemble classification framework for cell type assignment based on single cell transcriptome - PubMed
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11066953/ | scEWE: high-order element-wise weighted ensemble clustering for heterogeneity analysis of single-cell RNA-sequencing data - PMC
+https://pubmed.ncbi.nlm.nih.gov/30202935/ | SAFE-clustering: Single-cell Aggregated (from Ensemble) clustering for single-cell RNA-seq data - PubMed
+https://www.connectedpapers.com/main/1776b2e9412e68e0f88e5722d33595dd059ff79d/HieRFIT%3A-a-hierarchical-cell-type-classification-tool-for-projections-from-complex-single%20cell-atlas-datasets/graph | HieRFIT: a hierarchical cell type classification tool for projections from complex single-cell atlas datasets | Connected Papers
+https://pubmed.ncbi.nlm.nih.gov/34815832/#&gid=article-figures&pid=fig-5-uid-4 | Automatic cell type identification methods for single-cell RNA sequencing - PubMed
+https://pubmed.ncbi.nlm.nih.gov/38560451/ | scAnnoX: an R package integrating multiple public tools for single-cell annotation - PubMed
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10981883/ | scAnnoX: an R package integrating multiple public tools for single-cell annotation - PMC
+https://github.com/XQ-hub/scAnnoX/blob/main/vignettes/test.ipynb | scAnnoX/vignettes/test.ipynb at main · XQ-hub/scAnnoX
+https://pubmed.ncbi.nlm.nih.gov/38528186/ | Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis - PubMed
+https://pubmed.ncbi.nlm.nih.gov/38647069/ | SifiNet: a robust and accurate method to identify feature gene sets and annotate cells - PubMed
+https://bioconductor.org/packages/release/bioc/vignettes/SC3/inst/doc/SC3.html | SC3 package manual
+https://github.com/Winnie09/GPTCelltype/blob/master/vignettes/gptcelltype.pdf | GPTCelltype/vignettes/gptcelltype.pdf at master · Winnie09/GPTCelltype
+https://github.com/XQ-hub/scAnnoX | XQ-hub/scAnnoX
+https://www.bioconductor.org/packages/release/bioc/html/CelliD.html | Bioconductor - CelliD

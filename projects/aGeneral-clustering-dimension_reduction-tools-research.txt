@@ -1,0 +1,34 @@
+https://www.google.com/search?q=feature+selection+scRNAseq+and+clustering&oq=feature+selection+scRNAseq+and+clustering&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAHSAQkxMjU4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8 | feature selection scRNAseq and clustering - Google Search
+https://academic.oup.com/bib/article/25/4/bbae317/7709086#469693000 | Characterizing efficient feature selection for single-cell expression analysis | Briefings in Bioinformatics | Oxford Academic
+https://zenodo.org/records/10017609 | jc-namlab/FS: benchmark_feature_selection
+https://pubmed.ncbi.nlm.nih.gov/31870412/ | Feature selection and dimension reduction for single-cell RNA-Seq based on a multinomial model - PubMed
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1861-6 | Feature selection and dimension reduction for single-cell RNA-Seq based on a multinomial model | Genome Biology | Full Text
+https://www.connectedpapers.com/main/5bd75ff773adef2867eff0c066e2a5160e22173a/Feature-selection-and-dimension-reduction-for-single%20cell-RNA%20Seq-based-on-a-multinomial-model/graph | Feature selection and dimension reduction for single-cell RNA-Seq based on a multinomial model | Connected Papers
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=31823809&page=3 | Cited In for PMID: 31823809 - Search Results - PubMed
+https://rnajournal.cshlp.org/content/29/5/517.long | Review of single-cell RNA-seq data clustering for cell-type identification and characterization
+https://github.com/Alexzsx/Single-cell-RNA-seq-Clustering/blob/main/Clustering%20for%20Human%20Brain.R | Single-cell-RNA-seq-Clustering/Clustering for Human Brain.R at main · Alexzsx/Single-cell-RNA-seq-Clustering
+https://rnajournal.cshlp.org/content/29/5/517/T1.expansion.html | Review of single-cell RNA-seq data clustering for cell-type identification and characterization
+https://rnajournal.cshlp.org/content/29/5/517/T2.expansion.html | Review of single-cell RNA-seq data clustering for cell-type identification and characterization
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1898-6 | Accuracy, robustness and scalability of dimensionality reduction methods for single-cell RNA-seq analysis | Genome Biology | Full Text
+https://pubmed.ncbi.nlm.nih.gov/38409103/ | Statistical method scDEED for detecting dubious 2D single-cell embeddings and optimizing t-SNE and UMAP hyperparameters - PubMed
+https://github.com/JSB-UCLA/scDEED | JSB-UCLA/scDEED: Single-cell dubious embedding detector (scDED): a statistical method for detecting dubious non-linear embeddings
+https://pubmed.ncbi.nlm.nih.gov/38725155/ | Data-driven selection of analysis decisions in single-cell RNA-seq trajectory inference - PubMed
+https://cran.r-project.org/web/packages/RaceID/vignettes/RaceID.html#varid2 | RaceID/StemID/VarID reference manual
+https://github.com/hemberg-lab/SC3 | hemberg-lab/SC3: A tool for the unsupervised clustering of cells from single cell RNA-Seq experiments
+https://www.google.com/search?q=sc3+r+seurat&oq=sc3+r+seurat&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigAdIBCDQ1OTlqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8 | sc3 r seurat - Google Search
+https://tertiary-workflows-docs.readthedocs.io/en/latest/modules.html | Components — Tertiary workflows for single-cell RNA-seq data 1.0 documentation
+https://www.ingentaconnect.com/content/ben/cbio/2024/00000019/00000003/art00002 | Deep Learning for Clustering Single-cell RNA-seq Data: Ingenta Connect
+https://dl.acm.org/doi/full/10.1145/3641284?casa_token=PKyUJdSVRp0AAAAA%3AaqvwcSCDFHb031Pbmn6n2jZPBwmEqWMbiaGzm3qjtBy4RRGR72SIwey6g5xT8aoBz_gVBsPnz4ckRA#sec-7 | Deep Learning in Single-cell Analysis | ACM Transactions on Intelligent Systems and Technology
+https://link.springer.com/article/10.1186/s13059-024-03211-z | DANCE: a deep learning library and benchmark platform for single-cell analysis | Genome Biology
+https://www.nature.com/articles/s41598-022-14218-6#further-reading | scCAN: single-cell clustering using autoencoder and network fusion | Scientific Reports
+https://academic.oup.com/bioinformatics/article/40/1/btae020/7564641 | scMAE: a masked autoencoder for single-cell RNA-seq clustering | Bioinformatics | Oxford Academic
+https://pubmed.ncbi.nlm.nih.gov/32176273/ | Interpretable factor models of single-cell RNA-seq via variational autoencoders - PubMed
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=35715568 | Cited In for PMID: 35715568 - Search Results - PubMed
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11091742/ | CASCC: a co-expression-assisted single-cell RNA-seq data clustering method - PMC
+https://rpubs.com/Lingyi/CASCC | RPubs - Introduction to CASCC
+https://github.com/LingyiC/CASCC | LingyiC/CASCC: CASCC: A co-expression assisted single-cell RNA-seq data clustering method
+https://pubmed.ncbi.nlm.nih.gov/37769630/ | Self-supervised deep clustering of single-cell RNA-seq data to hierarchically detect rare cell populations - PubMed
+https://github.com/shaoqiangzhang/DeepScena | shaoqiangzhang/DeepScena: Deep clustering of scRNA-seq data
+https://www.google.com/search?q=install+another+version+of+seurat+without+affecting+current&oq=install+another+version+of+seurat+without+affecting+current+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTEyNjI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | install another version of seurat without affecting current - Google Search
+https://anaconda.org/conda-forge/r-seuratdisk | R Seuratdisk | Anaconda.org
+https://docs.scvi-tools.org/en/stable/user_guide/models/scvi.html | scVI — scvi-tools

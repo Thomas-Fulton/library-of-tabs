@@ -1,0 +1,79 @@
+https://outlook.office.com/mail/ | Email - Fulton, William T J - Outlook
+https://teams.microsoft.com/v2/ | (3) Teams and Channels | Microsoft Teams
+https://www.egencia.co.uk/auth/v1/login?call-back-url=aHR0cHM6Ly93d3cuZWdlbmNpYS5jby51ay90cmlwLXdlYmFwcC8%2FbG9iPTEmc3RhdHVzPTEmZXh0ZXJuYWxfc3lzdGVtPUNPJml0ZW1faWQ9NjZkNWY4MDA1ZWQyZTA2YTdhMTRlMDEy&isRedirected=true | Login | Egencia
+https://www.egencia.co.uk/auth/v1/login?call-back-url=aHR0cHM6Ly93d3cuZWdlbmNpYS5jby51ay90cmlwLXdlYmFwcC8%2FbG9iPTImc3RhdHVzPTEmZXh0ZXJuYWxfc3lzdGVtPUNPJml0ZW1faWQ9NjZkNWVmYmU3MjRhYmY0NGUwMDc4YzUw&isRedirected=true | Login | Egencia
+https://eaaci.org/events_meetings/isma-rhina-2024/ | - ISMA-RHINA 2024
+https://eaaci.org/events_meetings/isma-rhina-2024/registration/ | - ISMA-RHINA 2024 - Registration
+https://my.eaaci.org/dashboard | Dashboard
+https://eaaci.org/events_meetings/isma-rhina-2024/scientific-programme/scientific-programme/ | ISMA-RHINA 2024 - Scientific Programme - Scientific Programme
+https://eaaci.org/agenda/isma-rhina-2024/ | ISMA-RHINA 2024 - EAACI
+https://github.com/crazyhottommy/scRNAseq-analysis-notes | crazyhottommy/scRNAseq-analysis-notes: scRNAseq analysis notes from Ming Tang
+https://github.com/Irrationone/cellassign | Irrationone/cellassign: Automated, probabilistic assignment of cell types in scRNA-seq data
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04574-5 | scAnnotatR: framework to accurately classify cell types in single-cell RNA-sequencing data | BMC Bioinformatics | Full Text
+https://spica.unil.ch/ | SPICA
+https://github.com/Thomas-Fulton/records-of-ITG-projects/blob/main/making_backups.pdf | records-of-ITG-projects/making_backups.pdf at main · Thomas-Fulton/records-of-ITG-projects
+file:///home/wfulton/Documents/Programming_notes/making_backups.md | making_backups.md
+https://www.10xgenomics.com/support/software/cell-ranger/latest/analysis/running-pipelines/cr-3p-multi | Cell Multiplexing with Cell Ranger multi (3' Single Cell Gene Expression Kit) - Official 10x Genomics Support
+http://ic-5cg3060ry8:43159/?auth=PIAAW8VBO7kKlJ1QqQflPU18WL4wbUu89JgMFHzj418 | Martian Pipeline Runner / MSIT513-0 SC_MULTI_CS
+https://github.com/Thomas-Fulton/Lindt-2 | Thomas-Fulton/Lindt-2
+https://www.reddit.com/r/bioinformatics/comments/x9q6dl/cell_type_marker_database/ | Cell type marker Database : r/bioinformatics
+https://www.humancellatlas.org/portals/ | Portals
+https://www.reddit.com/r/bioinformatics/comments/12zz9yy/marker_genes/ | Marker genes : r/bioinformatics
+https://www.reddit.com/r/bioinformatics/comments/yyqdhh/how_to_identify_cluster_cell_types/ | How to identify cluster cell types : r/bioinformatics
+https://www.reddit.com/r/bioinformatics/comments/1ccufty/how_do_you_guys_annotate_your_scrna_cell_clusters/ | How do you guys annotate your scRNA cell clusters? : r/bioinformatics
+https://www.reddit.com/r/bioinformatics/comments/1bstkek/help_with_cell_annotation_in_single_cell_rna/ | Help with cell annotation in single cell RNA sequencing data analysis : r/bioinformatics
+https://www.reddit.com/r/bioinformatics/comments/1cn6rrx/help_figuring_out_if_im_analyzing_this_single/ | Help figuring out if I'm analyzing this single cell data correctly? : r/bioinformatics
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9879959/ | Cross center single-cell RNA sequencing study of the immune microenvironment in rapid progressing multiple myeloma - PMC
+https://www.reddit.com/r/bioinformatics/comments/1boaz0m/cell_type_annotation_resources/ | cell type annotation resources : r/bioinformatics
+https://cellxgene.cziscience.com/collections | Collections - CZ CELLxGENE Discover
+https://chanzuckerberg.github.io/cellxgene-census/r/index.html | CZ CELLxGENE Discover Cell Census • cellxgene.census
+https://chanzuckerberg.github.io/cellxgene-census/r/articles/census_query_extract.html | Querying and fetching the single-cell data and cell/gene metadata • cellxgene.census
+https://chanzuckerberg.github.io/cellxgene-census/r/articles/census_access_maintained_embeddings.html | Access CELLxGENE collaboration embeddings (scVI, Geneformer) • cellxgene.census
+https://cellxgene.cziscience.com/collections/6f6d381a-7701-4781-935c-db10d30de293 | The integrated Human Lung Cell Atlas - CZ CELLxGENE Discover
+https://azimuth.hubmapconsortium.org/ | Azimuth
+https://ngdc.cncb.ac.cn/celltaxonomy/ctp | Cell Type Predictor - Cell Taxonomy - CNCB-NGDC
+https://satijalab.org/seurat/articles/integration_mapping.html | Analysis, visualization, and integration of Visium HD spatial datasets with Seurat • Seurat
+https://www.10xgenomics.com/analysis-guides/web-resources-for-cell-type-annotation | Web Resources for Cell Type Annotation - 10x Genomics
+http://scibet.cancer-pku.cn/document.html | SciBet
+https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-018-0694-x | idp.nature.com
+https://www.google.com/search?q=cellxgene+automated+annotation&sca_esv=a19aa098bcd01102&sca_upv=1&ei=ecfRZpDlN7qQhbIPl8y42AY&start=10&sa=N&sstk=AagrsuhRTM9st_lNas2nf6oBfSw5d6CAONaA5_Qkuuty5l-PMwkyQoSS77R_uI2R7bUpm6jvALMoSKMNi9dKw3z1gRYwiJOzk2pIOQ&ved=2ahUKEwjQhZDQ55yIAxU6SEEAHRcmDmsQ8NMDegQIBBAW&biw=1702&bih=847&dpr=1.1 | cellxgene automated annotation - Google Search
+https://cellxgene.cziscience.com/docs/05__Annotate%20and%20Analyze%20Your%20Data/5_5__Automatic%20Annotation | Documentation - CZ CELLxGENE
+https://www.nature.com/articles/s41596-021-00534-0 | Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods | Nature Protocols
+https://www.nature.com/articles/s41596-021-00534-0/tables/2 | Table 2 Summary of referenced annotation tools
+https://www.nature.com/articles/s41596-021-00534-0/tables/1 | Table 1 Comparison of the caveats and recommendations for different approaches to cell annotation
+https://satijalab.org/seurat/articles/extensions | Analysis, visualization, and integration of Visium HD spatial datasets with Seurat • Seurat
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=34935911 | Cited In for PMID: 34935911 - Search Results - PubMed
+https://pubmed.ncbi.nlm.nih.gov/37117305/ | MASI enables fast model-free standardization and integration of single-cell transcriptomics data - PubMed
+https://pubmed.ncbi.nlm.nih.gov/37080771/ | TripletCell: a deep metric learning framework for accurate annotation of cell types at the single-cell level - PubMed
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049754/ | EasyCellType: marker-based cell-type annotation by automatically querying multiple databases - PMC
+https://bioconductor.org/packages/devel/bioc/vignettes/EasyCellType/inst/doc/my-vignette.html | EasyCellType: an example workflow
+https://www.biorxiv.org/content/10.1101/2024.05.24.595477v2.full.pdf | Automated cell annotation in scRNA-seq data using unique marker gene sets
+file:///home/wfulton/projects/LINDT/cellrangerOuts/MSIT513-A/outs/per_sample_outs/MSIT513-A/web_summary.html | file:///home/wfulton/projects/LINDT/cellrangerOuts/MSIT513-A/outs/per_sample_outs/MSIT513-A/web_summary.html
+file:///home/wfulton/projects/LINDT/cellrangerOuts/MSIT513-0/outs/per_sample_outs/MSIT513-0/web_summary.html | file:///home/wfulton/projects/LINDT/cellrangerOuts/MSIT513-0/outs/per_sample_outs/MSIT513-0/web_summary.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8762856/#:~:text=scAnnotatR%20uses%20hierarchically%20organised%20SVMs,not%2Dclassify%20unknown%20cell%20types. | scAnnotatR: framework to accurately classify cell types in single-cell RNA-sequencing data - PMC
+https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=35038984 | Cited In for PMID: 35038984 - Search Results - PubMed
+https://pubmed.ncbi.nlm.nih.gov/38317054/ | CTISL: a dynamic stacking multi-class classification approach for identifying cell types from single-cell RNA-seq data - PubMed
+https://www.google.com/search?q=consensus+annotation+scRNAseq&oq=consensus+annotation+scRNAseq&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEJMTA5MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | consensus annotation scRNAseq - Google Search
+https://www.sciencedirect.com/science/article/pii/S2001037021000192 | Automated methods for cell type annotation on scRNA-seq data - ScienceDirect
+https://pubmed.ncbi.nlm.nih.gov/37267208/ | Consensus label propagation with graph convolutional networks for single-cell RNA sequencing cell type annotation - PubMed
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10904148/ | scSemiGCN: boosting cell-type annotation from noise-resistant graph neural networks with extremely limited supervision - PMC
+https://academic.oup.com/bib/article/25/2/bbae072/7618083?login=false | scDOT: enhancing single-cell RNA-Seq data annotation and uncovering novel cell types through multi-reference integration | Briefings in Bioinformatics | Oxford Academic
+https://www.mdpi.com/2073-4409/12/15/1970 | Cells | Free Full-Text | A Review of Single-Cell RNA-Seq Annotation, Integration, and Cell–Cell Communication
+https://academic.oup.com/bioinformatics/article/39/6/btad360/7189733 | Consensus label propagation with graph convolutional networks for single-cell RNA sequencing cell type annotation | Bioinformatics | Oxford Academic
+https://academic.oup.com/bib/article/22/6/bbab236/6308199#312139462 | Consensus clustering of single-cell RNA-seq data by enhancing network affinity | Briefings in Bioinformatics | Oxford Academic
+https://academic.oup.com/bib/article/25/1/bbad497/7505072 | critical assessment of clustering algorithms to improve cell clustering and identification in single-cell transcriptome study | Briefings in Bioinformatics | Oxford Academic
+https://github.com/shaoqiangzhang/SCENA | shaoqiangzhang/SCENA: Consensus Clustering of Single-cell RNA-seq Data by Enhancing Network Affinity
+https://ieeexplore.ieee.org/document/10264908 | Consensus Clustering Strategy for Cell Type Assignments of scRNA-seq Data | IEEE Conference Publication | IEEE Xplore
+https://pubmed.ncbi.nlm.nih.gov/37924118/ | Annotation of cell types (ACT): a convenient web server for cell type annotation - PubMed
+http://biocc.hrbmu.edu.cn/ACT/ | ACT
+https://bioconductor.org/packages/devel/bioc/vignettes/scAnnotatR/inst/doc/classifying-cells.html | Introduction to scAnnotatR
+https://bioconductor.org/packages/release/bioc/vignettes/scAnnotatR/inst/doc/training-basic-model.html | Training basic model classifying a cell type from scRNA-seq data
+https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad030/7076619 | scAnnotate: an automated cell-type annotation tool for single-cell RNA-sequencing data | Bioinformatics Advances | Oxford Academic
+https://satijalab.org/seurat/articles/seurat5_integration | Analysis, visualization, and integration of Visium HD spatial datasets with Seurat • Seurat
+https://www4.imperial.ac.uk/OA_HTML/OA.jsp?page=/oracle/apps/ap/oie/entry/accounting/webui/ExpenseAllocationsPG&_ti=158950401&retainAM=Y&addBreadCrumb=N&oapc=19&oas=uewzk7G9mVcFBNhy23bLrw.. | Create Expense Claim: Expense Charging
+https://pubmed.ncbi.nlm.nih.gov/36949780/ | scAnnotate: an automated cell-type annotation tool for single-cell RNA-sequencing data - PubMed
+https://pubmed.ncbi.nlm.nih.gov/34815832/ | Automatic cell type identification methods for single-cell RNA sequencing - PubMed
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8572862/ | Automatic cell type identification methods for single-cell RNA sequencing - PMC
+https://pubmed.ncbi.nlm.nih.gov/37183449/ | scAnno: a deconvolution strategy-based automatic cell type annotation tool for single-cell RNA-sequencing data sets - PubMed
+https://pubmed.ncbi.nlm.nih.gov/38098055/ | Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single-cell RNA-sequencing datasets - PubMed
+http://cellstar.idrblab.net/data/cell/details/CT_0000238 | Details of Cell Information | CellSTAR
