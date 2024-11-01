@@ -1,0 +1,83 @@
+https://outlook.office.com/host/0d5c91ee-5be2-4b79-81ed-23e6c4580427/ToDoId | To Do - Fulton, William T J - Outlook
+https://teams.microsoft.com/v2/ | Chat | Microsoft Teams
+https://login.microsoftonline.com/common/oauth2/logout?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&client%2Drequest%2Did=1c605fa1%2D00a7%2Da000%2D50a2%2De3e02a7bc3c6 | Sign out
+https://imperiallondon.sharepoint.com/:x:/r/sites/ImmunotoleranceGroup/_layouts/15/doc2.aspx?sourcedoc=%7B1E31FFF0-ECA0-4784-914D-4E9FB7225C5C%7D&file=Freezer%202%20(-80)%20-%20Emergency%20freezer.xlsx&action=default&mobileredirect=true | Freezer 2 (-80) - Emergency freezer.xlsx
+https://imperiallondon.sharepoint.com/:x:/r/sites/ImmunotoleranceGroup/_layouts/15/Doc.aspx?sourcedoc=%7B3379AB42-9B46-4043-947B-C9C63DDF0677%7D&file=Freezer%205%20(-80).xlsx&action=default&mobileredirect=true | Freezer 5 (-80).xlsx
+https://enblacar.github.io/SCpubr-book-v1/25-PseudotimeAnalysisPlots.html | SCpubr - 28  Pseudotime analysis
+https://www.google.com/search?q=hierarchical+clustering+hclust+pathway+genes&num=10&sca_esv=fe1d248b964710f2&sxsrf=ADLYWILeL5ojkd4ZQAYqm9I4JG0Q9r_UPg:1728047289444&ei=uej_Zs_jGrO1hbIPz9rG6Qc&start=20&sa=N&sstk=Aagrsug1VBAc3m5jB4pJPrTXYHZ4lybfr0TOdNVN6Hq5dncPU6OUm6kYFM2rpagO-qsCUF8AD8h5hfmimcDAB9RWLhryz6iAdpQ-IUxDaWgNYhsDI7g1AMHX5SQdWdVi8pXd&ved=2ahUKEwiPpN7m5fSIAxWzWkEAHU-tMX04ChDw0wN6BAgEEBc&biw=1702&bih=847&dpr=1.1 | hierarchical clustering hclust pathway genes - Google Search
+https://www.biostars.org/p/273107/ | Parallel processing in R
+https://pubmed.ncbi.nlm.nih.gov/28835366/ | Vitamin D prenatal programming of childhood metabolomics profiles at age 3 y - PubMed
+https://divingintogeneticsandgenomics.com/post/scrnaseq-clustering-significant-test-an-unsolvable-problem/ | scRNAseq clustering significance test: an unsolvable problem? | DNA confesses Data speak
+https://jef.works/blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/ | JEFworks Lab
+https://feedly.com/i/collection/content/user/85292552-d294-4d2c-96e3-22037db87808/category/abba98d8-b16e-480d-ab32-e77ef1fa2f52 | Bioinformatics
+https://www.nature.com/articles/s43588-024-00683-8 | Joint inference of discrete cell types and continuous type-specific variability in single-cell datasets with MMIDAS | Nature Computational Science
+https://www.rna-seqblog.com/single-cell-gene-set-enrichment-analysis-and-transfer-learning-for-functional-annotation-of-scrna-seq-data/ | Single-cell gene set enrichment analysis and transfer learning for functional annotation of scRNA-seq data | RNA-Seq Blog
+https://github.com/jichunxie/sifinet/blob/main/vignettes/SifiNet_tutorial.Rmd | sifinet/vignettes/SifiNet_tutorial.Rmd at main · jichunxie/sifinet
+https://academic.oup.com/nar/article/52/D1/D859/7321991 | CellSTAR: a comprehensive resource for single-cell transcriptomic annotation | Nucleic Acids Research | Oxford Academic
+https://academic.oup.com/bib/article/24/2/bbad045/7068949 | academic.oup.com
+https://github.com/YuLab-SMU/DOSE/issues/12 | Question: How to combine multiple enrichmentResult objects · Issue #12 · YuLab-SMU/DOSE
+https://www.biostars.org/p/9484830/ | How to colour points in cnetplot of clustprofiler?
+https://github.com/Winnie09/Lamian | Winnie09/Lamian
+https://winnie09.github.io/Wenpin_Hou/pages/Lamian.html#overview | Lamian: a statistical framework for differential pseudotime analysis in multiple single-cell RNA-seq samples
+https://www.nature.com/articles/s41467-023-42841-y | A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples | Nature Communications
+https://github.com/Thomas-Fulton/ITG-group-parsing/commit/a09c090d683ebc7a24eaad19d55a280482c39cf3 | 2024-10-09 csv converted · Thomas-Fulton/ITG-group-parsing@a09c090
+https://github.com/HectorRDB/condiments | HectorRDB/condiments: Trajectory inference across multiple conditions with condiments: differential topology, progression, differentiation, and expression
+https://www.nature.com/articles/s41467-024-44823-0 | Trajectory inference across multiple conditions with condiments | Nature Communications
+https://www.nature.com/articles/s41467-024-44823-0/figures/5 | Fig. 5: Fibrosis dataset. | Nature Communications
+https://hectorrdb.github.io/condiments/articles/condiments.html | Overview of the condiments workflow • condiments
+https://statomics.github.io/tradeSeq/articles/tradeSeq.html | The tradeSeq workflow • tradeSeq
+https://statomics.github.io/tradeSeq/articles/fitGAM.html | Fitting the models and additional control of fitGAM in **tradeSeq** • tradeSeq
+https://github.com/statOmics/tradeSeq/blob/master/vignettes/cheatsheet_highRes.jpeg | tradeSeq/vignettes/cheatsheet_highRes.jpeg at master · statOmics/tradeSeq
+https://kstreet13.github.io/bioc2020trajectories/articles/workshopTrajectories.html#differential-expression-1 | Trajectory inference across conditions: differential expression and differential progression • bioc2020trajectories
+https://hectorrdb.github.io/condimentsPaper/articles/TGFB.html | Analysis of the TGFB datataset • condimentsPaper
+https://hectorrdb.github.io/condimentsPaper/articles/Fibrosis.html | Analysis of the fibrosis datataset • condimentsPaper
+https://hectorrdb.github.io/condimentsPaper/articles/KRAS.html | Analysis of the KRAS datataset • condimentsPaper
+https://bioconductor.org/packages/release/bioc/vignettes/slingshot/inst/doc/conditionsVignette.html#approach-2-condition-imbalance | Differential Topology: Comparing Conditions along a Trajectory
+https://www.google.com/search?q=good+practice+trajectory+analysis&num=10&sca_esv=29880a52b809b5f4&sxsrf=ADLYWIIG3Jv497FTGgpr4v5HTyFJ3jC26Q:1728667086140&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjJtOrc6oaJAxVnWkEAHfuLCqEQpwV6BAgDEAs&biw=1702&bih=847&dpr=1.1 | good practice trajectory analysis - Google Search
+https://bioconductor.org/packages/devel/bioc/vignettes/slingshot/inst/doc/vignette.html | Slingshot: Trajectory Inference for Single-Cell Data
+https://www.google.com/search?q=tradeseq+alternative+downstream+of+slingshot&oq=tradeseq+alternative+downstream+of+slingshot&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTExMTcxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | tradeseq alternative downstream of slingshot - Google Search
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02341-y#availability-of-data-and-materials | PseudotimeDE: inference of differential gene expression along cell pseudotime with well-calibrated p-values from single-cell RNA sequencing data | Genome Biology | Full Text
+https://github.com/SONGDONGYUAN1994/PseudotimeDE | SONGDONGYUAN1994/PseudotimeDE: A robust DE test method that accounts for the uncertainty in pseudotime inference
+https://dynverse.org/users/3-user-guide/6-tde/#a-global-overview-of-the-most-predictive-genes | Trajectory differentially expression :: dynverse
+https://pubmed.ncbi.nlm.nih.gov/39273049/ | LMNA-Related Dilated Cardiomyopathy: Single-Cell Transcriptomics during Patient-Derived iPSC Differentiation Support Cell Type and Lineage-Specific Dysregulation of Gene Expression and Development for Cardiomyocytes and Epicardium-Derived Cells with Lamin A/C Haploinsufficiency - PubMed
+https://stackoverflow.com/questions/52531787/add-a-single-point-to-legend-from-geom-point-and-scale-fill-gradient | r - Add a single point to legend from geom_point and scale_fill_gradient - Stack Overflow
+https://stackoverflow.com/questions/32646886/r-ggplot2-legend-overlaps-different-point-shapes | R: ggplot2: Legend overlaps different point shapes - Stack Overflow
+https://stackoverflow.com/questions/55997610/use-custom-labeling-function-for-labeling-y-axis-in-ggplot | r - Use custom labeling function for labeling y axis in ggplot - Stack Overflow
+https://cran.r-project.org/web/packages/hidecan/vignettes/hidecan.html | hidecan
+https://rdrr.io/cran/ggraph/man/scale_edge_colour.html | scale_edge_colour: Edge colour scales in ggraph: An Implementation of Grammar of Graphics for Graphs and Networks
+https://www.google.com/search?q=gtable+remove+specific+legends&num=10&sca_esv=f5734af37fe2ac71&sxsrf=ADLYWIK7-z8YTjmDlzASZZTwgv3E5gG4Lg%3A1729246063829&ei=bzMSZ7KjMqHAhbIP3bu2iAc&ved=0ahUKEwjylvTK15eJAxUhYEEAHd2dDXEQ4dUDCA8&uact=5&oq=gtable+remove+specific+legends&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmd0YWJsZSByZW1vdmUgc3BlY2lmaWMgbGVnZW5kczIKECEYoAEYwwQYCkjeKlDMBVjsKXABeACQAQCYAV-gAfMBqgEBM7gBA8gBAPgBAZgCA6ACvwHCAgoQABiwAxjWBBhHwgIIEAAYgAQYogSYAwCIBgGQBgiSBwEzoAfpCw&sclient=gws-wiz-serp | gtable remove specific legends - Google Search
+https://rpkgs.datanovia.com/ggpubr/reference/get_legend.html | rpkgs.datanovia.com
+https://www.geeksforgeeks.org/draw-ggplot2-legend-without-plot-in-r/ | www.geeksforgeeks.org
+https://rdrr.io/cran/lemon/man/g_legend.html | rdrr.io
+https://www.reddit.com/r/rstats/comments/16zn1jw/anyone_know_how_to_use_text_as_symbol_points/ | Anyone know how to use text as symbol points, while also have them show up in the legend? So either: a) a variation of geom_point that uses text instead of predefined shapes, or b) a variation of geom_text that adds the labels to the legend? See image for an example (created manually). : r/rstats
+https://sape.inf.usi.ch/quick-reference/ggplot2/shape | ggplot2 Quick Reference: shape | Software and Programmer Efficiency Research Group
+https://stackoverflow.com/questions/62574560/how-to-solve-aesthetic-error-while-running-a-ggplot2-code | r - How to solve aesthetic error while running a ggplot2 code? - Stack Overflow
+https://stackoverflow.com/questions/49965758/change-geom-texts-default-a-legend-to-label-string-itself | r - Change geom_text's default "a" legend to label string itself - Stack Overflow
+https://www.google.com/search?q=change+a+in+legend+geom_text&oq=change+a+in+legend+geom_text&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgYIARBFGDzSAQg4NTQ0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | change a in legend geom_text - Google Search
+https://stackoverflow.com/questions/69541579/ggplot2-reorder-items-in-a-legend | r - ggplot2: Reorder items in a legend - Stack Overflow
+https://www.google.com/search?q=ggrepel+repel+vertically&oq=ggrepel+repel+vertically&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQABiLAxiABBiiBBj4BTINCAIQABiLAxiABBiiBDINCAMQABiLAxiABBiiBDINCAQQABiLAxiABBiiBDINCAUQABiLAxiABBiiBNIBCDg0MzdqMWo0qAIAsAIB&sourceid=chrome&ie=UTF-8 | ggrepel repel vertically - Google Search
+https://github.com/zhanghao-njmu/SCP?tab=readme-ov-file#enrichment-analysisgsea | zhanghao-njmu/SCP: An end-to-end Single-Cell Pipeline designed to facilitate comprehensive analysis and exploration of single-cell data.
+https://www.google.com/search?q=tpx+gene+asthma&oq=tpx+gene+asthma&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQIRigARiLAxj4BdIBCDgxODZqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | tpx gene asthma - Google Search
+https://scholar.google.co.uk/scholar?as_ylo=2023&q=trajectory+analysis+differential+expression+methods&hl=en&as_sdt=0,5&as_vis=1 | trajectory analysis differential expression methods - Google Scholar
+https://www.nature.com/articles/s41467-023-42841-y#code-availability | A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples | Nature Communications
+https://www.nature.com/articles/s41540-024-00364-2?fromPaywallRec=false#code-availability | Metacell-based differential expression analysis identifies cell type specific temporal gene response programs in COVID-19 patient PBMCs | npj Systems Biology and Applications
+https://winnie09.github.io/Wenpin_Hou/pages/Lamian.html | Lamian: a statistical framework for differential pseudotime analysis in multiple single-cell RNA-seq samples
+https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00127-3 | hdWGCNA identifies co-expression networks in high-dimensional transcriptomics data: Cell Reports Methods
+https://www.google.com/search?q=hdwgcna+trajectory+tutorial&oq=hdwgcna+trajectory+tutorial&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDgwODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | hdwgcna trajectory tutorial - Google Search
+https://smorabit.github.io/hdWGCNA/articles/differential_MEs.html | Differential module eigengene (DME) analysis • hdWGCNA
+https://www.google.com/search?q=sox6+copd+epithelial&oq=sox6+copd+epithelial+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTExMDM2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | sox6 copd epithelial - Google Search
+https://publications.ersnet.org/content/erj/45/5/1258 | Imprinting of the COPD airway epithelium for dedifferentiation and mesenchymal transition | European Respiratory Society
+https://www.atsjournals.org/doi/full/10.1165/rcmb.2019-0395OC | Impaired Differentiation of Chronic Obstructive Pulmonary Disease Bronchial Epithelial Cells Grown on Bronchial Scaffolds | American Journal of Respiratory Cell and Molecular Biology
+https://satijalab.github.io/seurat-object/reference/Loadings.html | Get and set feature loadings — Loadings • SeuratObject
+https://stackoverflow.com/questions/51064686/error-in-chol-defaultcxx-the-leading-minor-of-order-is-not-positive-definite | r - Error in chol.default(Cxx) : the leading minor of order is not positive definite - Stack Overflow
+https://sjmgarnier.github.io/viridis/reference/scale_viridis.html | Viridis Color Scales for ggplot2 — scale_fill_viridis • viridis
+https://cole-trapnell-lab.github.io/monocle3/docs/differential/ | Monocle 3
+https://rdrr.io/bioc/slingshot/man/plot3d-SlingshotDataSet.html | plot3d-SlingshotDataSet: Plot Slingshot output in 3D in slingshot: Tools for ordering single-cell sequencing
+https://nbisweden.github.io/workshop-archive/workshop-scRNAseq/2020-01-27/labs/compiled/slingshot/slingshot.html | slingshot.utf8
+https://rdrr.io/bioc/slingshot/man/slingPseudotime.html | slingPseudotime: Get Slingshot pseudotime values in slingshot: Tools for ordering single-cell sequencing
+https://www.google.com/search?q=Error+in+data.frame(pseudotime+%3D+testobj%24pseudotime%5Bcolnames(fit.scale)%5D%2C+lamian&oq=Error+in+data.frame(pseudotime+%3D+testobj%24pseudotime%5Bcolnames(fit.scale)%5D%2C+lamian&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI0NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | Error in data.frame(pseudotime = testobj$pseudotime[colnames(fit.scale)], lamian - Google Search
+https://github.com/statOmics/tradeSeq/issues/167 | plotSmothers for each lineage separately · Issue #167 · statOmics/tradeSeq
+https://mjskay.github.io/ggblend/reference/copy.html | Copy layers then adjust params and aesthetics (Layer operation) — copy • ggblend
+https://sparkbyexamples.com/r-programming/convert-list-to-r-dataframe/#:~:text=()%20and%20as.-,data.,create%20DataFrame%20from%20a%20list. | Convert List to DataFrame in R - Spark By {Examples}
+https://www.google.com/search?q=condiments+scRNA+trajectory+weights+interpretation&num=10&sca_esv=58722b6aa619540f&sxsrf=ADLYWIKJTgOJ3Kwee6KL1HIM1P3xnhmKCg:1730386216162&ei=KJkjZ8PKCdiehbIPtZ-fqQM&start=10&sa=N&sstk=Aagrsuiam2t8v_fhEKkoyTqMYnBKr1vhXDfguqHy7eqcr8cJ7D78KkP3Lsnuteqw7q17pAfFcifeb28qpDHh8VfF6WyaFXXgtjjwoA&ved=2ahUKEwjD_vP97riJAxVYT0EAHbXPJzUQ8NMDegQIDRAU&biw=1872&bih=932&dpr=1 | condiments scRNA trajectory weights interpretation - Google Search
+https://assets-eu.researchsquare.com/files/rs-355803/v1_covered.pdf?c=1631862071 | v1_covered.pdf
